@@ -22,4 +22,4 @@ Need ActiveMQ support, features, Kubernetes operator, or management console?
 
 Contact HYTE! https://hyte.io
 
-Apache, ActiveMQ, Apache ActiveMQ, the Apache logo, and the Apache ActiveMQ project logo are trademarks of The Apache Software Foundation.
+_Apache, ActiveMQ, Apache ActiveMQ, the Apache logo, and the Apache ActiveMQ project logo are trademarks of The Apache Software Foundation._
