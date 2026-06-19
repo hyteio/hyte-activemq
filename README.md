@@ -1,6 +1,8 @@
-# HYTE ActiveMQ
+# HYTE extendsions for Apache ActiveMQ
 
-HYTE provided enhancements to Apache ActiveMQ for client and server features.
+HYTE provides enhancements to Apache ActiveMQ for client and server features in the form of extensions and plugins. 
+
+This is not a fork of Apache ActiveMQ, but a collection of extensions that run on top of stock Apache ActiveMQ.
 
 ## Background
 
@@ -19,3 +21,5 @@ Many of these will be contributed back to the Apache ActiveMQ project as core mo
 Need ActiveMQ support, features, Kubernetes operator, or management console? 
 
 Contact HYTE! https://hyte.io
+
+Apache, ActiveMQ, Apache ActiveMQ, the Apache logo, and the Apache ActiveMQ project logo are trademarks of The Apache Software Foundation.
