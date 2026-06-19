@@ -1,4 +1,4 @@
-# HYTE extendsions for Apache ActiveMQ
+# HYTE extensions for Apache ActiveMQ
 
 HYTE provides enhancements to Apache ActiveMQ for client and server features in the form of extensions and plugins. 
 
