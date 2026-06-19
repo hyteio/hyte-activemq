@@ -1,6 +1,6 @@
 # HYTE ActiveMQ
 
-HYTE enhancements to Apache ActiveMQ for client and server features.
+HYTE provided enhancements to Apache ActiveMQ for client and server features.
 
 ## Background
 
@@ -13,3 +13,9 @@ Many of these will be contributed back to the Apache ActiveMQ project as core mo
 
 
 ## Client enhancements
+
+## About HYTE
+
+Need ActiveMQ support, features, Kubernetes operator, or management console? 
+
+Contact HYTE! https://hyte.io
